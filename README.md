@@ -1,5 +1,9 @@
  🔒 VAPT Report: Demoblaze.com (Security Testing Project)
 
+
+
+ 
+
 📜 About This Project
 
 This repository contains a **Vulnerability Assessment and Penetration Testing (VAPT) report** for **Demoblaze.com**, a publicly available demo e-commerce platform. The project focuses on identifying security flaws following the **OWASP Top 10 2021 guidelines**. This report is prepared for **educational and learning purposes**, showcasing real-world VAPT methodologies.
