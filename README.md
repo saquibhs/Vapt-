@@ -52,16 +52,4 @@ The following vulnerabilities were identified during the security assessment:
 - **Custom manual payloads and scripts**
 
 
-## 📂 **Repository Structure**
-VAPT-Demoblaze/
-│
-├── README.md                    # 📄 Project overview and description
-├── VAPT_Report_DemoBlaze.docx   # 📝 Full detailed VAPT report (DOCX format)
-├── VAPT_Report_DemoBlaze.pdf    # 📄 (Optional) PDF version of the VAPT report for easy viewing
-├── artifacts/                   # 📸 Proof of Concept (PoC) screenshots and evidence
-│   ├── csrf_order_place.png     # CSRF attack evidence on order placement
-│   ├── session_fixation.png     # Session fixation PoC screenshot
-│   ├── sql_injection_login.png # SQL Injection in login page PoC
-│  
-└
 
